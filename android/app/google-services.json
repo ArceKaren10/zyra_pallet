@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "151042081940",
+    "project_id": "zyra-pallet",
+    "storage_bucket": "zyra-pallet.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151042081940:android:08b5551af27bac8fec2081",
+        "android_client_info": {
+          "package_name": "com.example.zyra_pallet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJT75cAarmHSrPThGHIgi1NqSgCpzUn88"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
